@@ -1,8 +1,8 @@
 # AI_Project
 
-#Main goal --> Maximize buiscuit production
+#Main goal --> Maximize biscuit production
 
-#Solution --> An assignment buiscuits on the roll
+#Solution --> An assignment biscuits on the roll
 
 Information provided:
 
