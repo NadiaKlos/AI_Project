@@ -33,3 +33,6 @@ CONSTRAINTS:
 - no overlap
 - defects < limit
 - lenght_biscuits ++ <= LENGHT
+
+
+we will use the width search algorithm
